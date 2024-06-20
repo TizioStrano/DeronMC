@@ -1,8 +1,8 @@
 {
 	"client": {
-		"host": "play.paweris.com",
-		"port": "46400",
-		"username": "PAWERISMC"
+		"host": "DeronMC.aternos.me:30060",
+		"port": "30060",
+		"username": "DeronMC"
 	},
 	
 	"! DO NOT EDIT BELOW !": "ONLY IF YOU KNOW WHAT YOU ARE DOING",
