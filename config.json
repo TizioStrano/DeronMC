@@ -1,6 +1,6 @@
 {
 	"client": {
-		"host": "DeronMC.aternos.me:30060",
+		"host": "DeronMC.aternos.me",
 		"port": "30060",
 		"username": "DeronMC"
 	},
